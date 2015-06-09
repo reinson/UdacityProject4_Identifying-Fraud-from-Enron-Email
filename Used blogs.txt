@@ -1,0 +1,6 @@
+
+Some of the code for drawing decision boundary of Gaussian Naive Bayes algorithm was taken from the following blog post.
+
+http://www.astroml.org/book_figures/chapter9/fig_simple_naivebayes.html
+
+
