@@ -1,0 +1,2 @@
+# Identifying Fraud from Enron Email
+The goal of this project was to use financial and email data for classifying Enron employees into two groups based on whether they were involved in [corporate fraud](https://en.wikipedia.org/wiki/Enron_scandal) or not. This project was made for Udacity [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002). See [project documentation](Documentation.pdf) for more info.
